@@ -1,0 +1,10 @@
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\bin\Debug\BDLab.exe.config
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\bin\Debug\BDLab.exe
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\bin\Debug\BDLab.pdb
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.Form1.resources
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.Properties.Resources.resources
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.csproj.GenerateResource.Cache
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.exe
+c:\users\ivan\documents\visual studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\BDLab\BDLab\obj\Debug\BDLab.csproj.CoreCompileInputs.cache
